@@ -1,0 +1,11 @@
+{
+  "name": "@fiix/ui",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "echo \"ui build not initialized yet\"",
+    "lint": "echo \"ui lint not initialized yet\"",
+    "typecheck": "echo \"ui typecheck not initialized yet\"",
+    "test": "echo \"ui test not initialized yet\""
+  }
+}

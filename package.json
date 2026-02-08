@@ -1,0 +1,15 @@
+{
+  "name": "fiix-web",
+  "private": true,
+  "packageManager": "pnpm@9.15.5",
+  "scripts": {
+    "turbo:dev": "turbo run dev",
+    "turbo:build": "turbo run build",
+    "turbo:lint": "turbo run lint",
+    "turbo:typecheck": "turbo run typecheck",
+    "turbo:test": "turbo run test"
+  },
+  "devDependencies": {
+    "turbo": "^2.0.0"
+  }
+}

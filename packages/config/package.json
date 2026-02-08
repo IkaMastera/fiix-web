@@ -1,0 +1,11 @@
+{
+  "name": "@fiix/config",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "build": "echo \"config build not initialized yet\"",
+    "lint": "echo \"config lint not initialized yet\"",
+    "typecheck": "echo \"config typecheck not initialized yet\"",
+    "test": "echo \"config test not initialized yet\""
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@fiix/admin",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "echo \"admin dev not initialized yet\"",
+    "build": "echo \"admin build not initialized yet\"",
+    "lint": "echo \"admin lint not initialized yet\"",
+    "typecheck": "echo \"admin typecheck not initialized yet\"",
+    "test": "echo \"admin test not initialized yet\""
+  }
+}
